@@ -1,25 +1,24 @@
-### Matheus de quadros santos
+# Matheus de quadros santos
 
 
 
-# Desenvolvedor Web em formação | Estudante de ADS
+### Desenvolvedor Web em formação | Estudante de ADS
 
 Tenho 19 anos, nasci em Porto Alegre (RS) e moro em Florianópolis (SC) , desde cedo, me interesso por tecnologia. Atualmente, curso Análise e Desenvolvimento de Sistemas na Uniasselvi, na modalidade semipresencial, e venho desenvolvendo minhas habilidades em programação e criação de aplicações web.
 
 Minhas experiências profissionais em diferentes áreas contribuíram para minha comunicação, responsabilidade e capacidade de adaptação. Agora, busco crescer na área de tecnologia, colocando meus conhecimentos em prática e desenvolvendo projetos cada vez melhores.
 
- Objetivo profissional
+  responsabilidade e capacidade de adaptação. Agora, busco crescer na área de tecnologia, colocando meus conhecimentos em prática e desenvolvendo projetos cada vez melhores
 
-Busco minha primeira oportunidade na área de desenvolvimento para contribuir com meus conhecimentos, aprender em equipe e continuar crescendo como desenvolvedor.
-
-
- Tecnologias e ferramentas
-
-📍 Florianopolis, SC · [GitHub](https://github.com/Quadrosmatheus)
+estou estudando a área a um ano e me sinto pronto para a minha primeira oportunidade na área de trabalho
 
 
 
-Tecnologias e ferramentas
+###📍 Florianopolis, SC · [GitHub](https://github.com/Quadrosmatheus)
+
+
+
+#Tecnologias e ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

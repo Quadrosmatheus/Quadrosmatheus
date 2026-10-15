@@ -1,14 +1,25 @@
-# Olá, eu sou o Matheus 👋
+Matheus de quadros santos
 
-### Desenvolvedor Web em formação · Estudante de ADS
+Desenvolvedor Web em formação · Estudante de ADS
 
-Curso **Análise e Desenvolvimento de Sistemas na Uniasselvi** e desenvolvo projetos para transformar ideias em experiências web úteis e bem cuidadas. Tenho interesse especial por desenvolvimento front-end e sigo evoluindo na prática.
+Desenvolvedor Web em formação | Estudante de ADS
 
-📍 Porto Alegre, RS · [GitHub](https://github.com/Quadrosmatheus)
+Tenho 19 anos, nasci em Porto Alegre (RS) e moro em Florianópolis (SC) , desde cedo, me interesso por tecnologia. Atualmente, curso Análise e Desenvolvimento de Sistemas na Uniasselvi, na modalidade semipresencial, e venho desenvolvendo minhas habilidades em programação e criação de aplicações web.
 
----
+Minhas experiências profissionais em diferentes áreas contribuíram para minha comunicação, responsabilidade e capacidade de adaptação. Agora, busco crescer na área de tecnologia, colocando meus conhecimentos em prática e desenvolvendo projetos cada vez melhores.
 
-## 🧰 Tecnologias e ferramentas
+ Objetivo profissional
+
+Busco minha primeira oportunidade na área de desenvolvimento para contribuir com meus conhecimentos, aprender em equipe e continuar crescendo como desenvolvedor.
+
+
+ Tecnologias e ferramentas
+
+📍 Florianopolis, SC · [GitHub](https://github.com/Quadrosmatheus)
+
+
+
+Tecnologias e ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,20 +32,10 @@ Curso **Análise e Desenvolvimento de Sistemas na Uniasselvi** e desenvolvo proj
 
 ---
 
-## 🚀 Projeto em destaque
+Projeto em destaque
 
-### La Coccina · Site para restaurante
+La Coccina · Site para restaurante
 
-Site com cardápio, pratos do dia, carrinho de compras, painel administrativo e pedidos pelo WhatsApp.
+Site com cardápio, pratos do dia, carrinho de compras, painel administrativo moderno e pedidos pelo WhatsApp.
 
-[🌐 Acessar o site](https://lacoccina.com.br) · [💻 Ver o código-fonte](https://github.com/developmatheus/la-coccina)
-
----
-
-## 🎯 Objetivo profissional
-
-Busco minha primeira oportunidade na área de desenvolvimento para contribuir com meus conhecimentos, aprender em equipe e continuar crescendo como desenvolvedor.
-
-## 📬 Contato
-
-Confira meus projetos e fale comigo pelo [GitHub](https://github.com/Quadrosmatheus).
+Acessar o site](https://lacoccina.com.br) ·  Ver o código-fonte](https://github.com/developmatheus/la-coccina)

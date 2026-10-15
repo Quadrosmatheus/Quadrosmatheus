@@ -1,8 +1,8 @@
-Matheus de quadros santos
+### Matheus de quadros santos
 
-Desenvolvedor Web em formação · Estudante de ADS
 
-Desenvolvedor Web em formação | Estudante de ADS
+
+# Desenvolvedor Web em formação | Estudante de ADS
 
 Tenho 19 anos, nasci em Porto Alegre (RS) e moro em Florianópolis (SC) , desde cedo, me interesso por tecnologia. Atualmente, curso Análise e Desenvolvimento de Sistemas na Uniasselvi, na modalidade semipresencial, e venho desenvolvendo minhas habilidades em programação e criação de aplicações web.
 

@@ -8,9 +8,9 @@ Tenho 19 anos, nasci em Porto Alegre (RS) e moro em Florianópolis (SC) , desde 
 
 Minhas experiências profissionais em diferentes áreas contribuíram para minha comunicação, responsabilidade e capacidade de adaptação. Agora, busco crescer na área de tecnologia, colocando meus conhecimentos em prática e desenvolvendo projetos cada vez melhores.
 
-  responsabilidade e capacidade de adaptação. Agora, busco crescer na área de tecnologia, colocando meus conhecimentos em prática e desenvolvendo projetos cada vez melhores
+  responsabilidade e capacidade de adaptação. Agora, busco crescer na área de tecnologia, colocando meus conhecimentos em prática e desenvolvendo projetos cada vez melhores.
 
-estou estudando a área a um ano e me sinto pronto para a minha primeira oportunidade na área de trabalho
+estou estudando a área a um ano e me sinto pronto para a minha primeira oportunidade na área de trabalho.
 
 
 
